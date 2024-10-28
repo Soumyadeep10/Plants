@@ -7375,10 +7375,12 @@
     }
 ]</data>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events>c0337194c31112109421b71ed4013158,51bbf118c35112109421b71ed4013176</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <extension_point/>
+        <form_factors>{}</form_factors>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -7478,6 +7480,7 @@
         <root_component_config/>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
+        <state_persistence_config/>
         <state_properties>[
     {
         "id": "",
@@ -7525,18 +7528,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-30 15:50:30</sys_created_on>
         <sys_id>8620f494c3891a108c3abd33e4013183</sys_id>
-
         <sys_mod_count>51</sys_mod_count>
-
         <sys_name>Default</sys_name>
         <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
         <sys_policy/>
         <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
         <sys_update_name>sys_ux_macroponent_8620f494c3891a108c3abd33e4013183</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-
         <sys_updated_on>2024-10-25 16:20:37</sys_updated_on>
-
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=8620f494c3891a108c3abd33e4013183"/>
 </record_update>

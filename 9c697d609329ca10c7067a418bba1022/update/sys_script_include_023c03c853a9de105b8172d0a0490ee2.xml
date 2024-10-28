@@ -6,6 +6,7 @@
         <caller_access/>
         <client_callable>true</client_callable>
         <description>Retrieves plant location from the database for auto-populating the plant location field in the plant trading client script.</description>
+        <mobile_callable>false</mobile_callable>
         <name>QuickFieldQuery</name>
         <script><![CDATA[var QuickFieldQuery = Class.create();
 QuickFieldQuery.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
